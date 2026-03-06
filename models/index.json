@@ -1,0 +1,56 @@
+{
+  "Aad (Bk)": {
+    "file": "models\\Aad_(Bk)_lstm",
+    "station": "Aad (Bk)",
+    "trained_at": "2026-03-01T11:06:47.621051",
+    "rmse": 0.40357239799439765,
+    "last_date": "2023-11-06",
+    "tier": "deep",
+    "real_obs": 465
+  },
+  "Ambapur-Shivar": {
+    "file": "models\\Ambapur-Shivar_lstm",
+    "station": "Ambapur-Shivar",
+    "trained_at": "2026-03-01T11:22:03.610934",
+    "rmse": 0.8011484654968429,
+    "last_date": "2023-07-25",
+    "tier": "deep",
+    "real_obs": 2027
+  },
+  "Agashi": {
+    "file": "models\\Agashi_lstm",
+    "station": "Agashi",
+    "trained_at": "2026-03-01T11:34:22.027741",
+    "rmse": 0.8392377091806412,
+    "last_date": "2023-05-29",
+    "tier": "deep",
+    "real_obs": 1975
+  },
+  "Ashti": {
+    "file": "models\\Ashti_lstm",
+    "station": "Ashti",
+    "trained_at": "2026-03-01T11:41:34.046710",
+    "rmse": 2.3267875912459473,
+    "last_date": "2023-11-06",
+    "tier": "deep",
+    "real_obs": 2136
+  },
+  "Bamni": {
+    "file": "models\\Bamni_lstm",
+    "station": "Bamni",
+    "trained_at": "2026-03-01T11:42:17.769142",
+    "rmse": 1.8700629514014735,
+    "last_date": "2023-11-06",
+    "tier": "deep",
+    "real_obs": 2131
+  },
+  "Belkund-1": {
+    "file": "models\\Belkund-1_lstm",
+    "station": "Belkund-1",
+    "trained_at": "2026-03-01T11:44:17.920777",
+    "rmse": 2.445951836866693,
+    "last_date": "2023-07-17",
+    "tier": "deep",
+    "real_obs": 2019
+  }
+}
